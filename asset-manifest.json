@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-product-cart/static/css/main.9311b5b1.css",
+    "main.js": "/react-product-cart/static/js/main.5d070d82.js",
+    "static/js/453.045f6b4a.chunk.js": "/react-product-cart/static/js/453.045f6b4a.chunk.js",
+    "static/media/hero-bg.jpg": "/react-product-cart/static/media/hero-bg.fa6c455cbec2a3f793f9.jpg",
+    "static/media/bag2.jpg": "/react-product-cart/static/media/bag2.afaa512a979fb4c88de9.jpg",
+    "static/media/bag3.webp": "/react-product-cart/static/media/bag3.8cc8c09e799d302b91fb.webp",
+    "static/media/bag.jpg": "/react-product-cart/static/media/bag.f10714a775d3a1acb9a6.jpg",
+    "static/media/logo.svg": "/react-product-cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-product-cart/index.html",
+    "main.9311b5b1.css.map": "/react-product-cart/static/css/main.9311b5b1.css.map",
+    "main.5d070d82.js.map": "/react-product-cart/static/js/main.5d070d82.js.map",
+    "453.045f6b4a.chunk.js.map": "/react-product-cart/static/js/453.045f6b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9311b5b1.css",
+    "static/js/main.5d070d82.js"
+  ]
+}
